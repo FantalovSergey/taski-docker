@@ -2,12 +2,12 @@ asgiref==3.8.1
 Django==3.2.3
 django-cors-headers==3.13.0
 djangorestframework==3.12.4
-flake8==6.0.0
-flake8-isort==6.0.0
+flake8==7.2.0
+flake8-isort==6.1.2
 isort==5.13.2
 mccabe==0.7.0
-pycodestyle==2.10.0
-pyflakes==3.0.1
+pycodestyle==2.13.0
+pyflakes==3.3.2
 pytz==2025.2
 setuptools==80.9.0
 sqlparse==0.5.3
